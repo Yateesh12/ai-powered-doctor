@@ -1,2 +1,2 @@
 # ai-powered-doctor
-this project is newly created ai powered nutritionist where you will be able to analyze the food's quantity, micro and macro nutrients
+this project is newly created ai powered nutritionist where you will be able to analyze the food's quantity, micro and macro nutrients just by taking a snap of food you are eating and upload it to the web and give analyze the food justby clicking the button you will able to get complete insight regarding and you also get complete insight regarding food and will get personalised diet plan
